@@ -1,0 +1,35 @@
+
+{
+    "user":[
+    {
+    "Autor":"Diego Payo Martinez",
+    "Avatar": "imagdiego.png",
+    "Titulo" : " Hala Madrid!",
+    " Contenido": "Hoy ganamos al Barcelona",
+    "Fecha": "2015-02-06"
+  },
+  {
+    "Autor":"Laura",
+    "Avatar": "imaglaura.png",
+    "Titulo" : " Hoy es un gran dia!",
+    " Contenido": "Empiezo a trabjar en un nuevo proyecto",
+    "Fecha": "2016-03-23"
+  }
+  ,
+  {
+    "Autor":"Rebeca García",
+    "Avatar": "atardecer.png",
+    "Titulo" : " :)",
+    " Contenido": "Que bonito atardecer en Madrid",
+    "Fecha": "2014-01-15"
+  }
+  ,
+  {
+    "Autor":"Raul Mejide ",
+    "Avatar": "estudiar.jpg",
+    "Titulo" : " :(",
+    " Contenido": "Hoy no se sale , me toca estudiar ... Sólo quedan dos",
+    "Fecha": "2016-02-12"
+  }
+]
+}

@@ -1,0 +1,18 @@
+{
+    "user":[
+    {
+    "Autor":"Diego Payo Martinez",
+    "Avatar": "imagdiego.png",
+    "Titulo" : "Finde Rural ",
+    " Contenido": "Me voy al pueblo !!!",
+    "Fecha": "13/04/2015"
+  },
+  {
+    "Autor":"Diego Payo Martinez",
+    "Avatar": "imagdiego.png",
+    "Titulo" : "Teorico",
+    " Contenido": " He aprobado el teórico. Cuidado que dentro de poco otro peligro mas en la carretera jajaja" ,
+    "Fecha": "14/05/2016"
+  }
+]
+}

@@ -1,0 +1,62 @@
+.my-new-list div {
+
+      border-radius: 25px;
+      background: url(img.gif);
+      background-position: left top;
+      background-repeat: repeat;
+      padding: 20px;
+      width: 250px;
+      height: 250px;
+
+
+      left: 30%;
+      top: 60%;
+      width: 80%;
+      text-align: center;
+      font-size: 18px;
+
+
+}
+.timeline div {
+
+      border-radius: 25px;
+      background: url(img.gif);
+      background-position: left top;
+      background-repeat: repeat;
+      padding: 20px;
+      width: 250px;
+      height: 250px;
+
+
+      left: 30%;
+      top: 60%;
+      width: 80%;
+      text-align: center;
+      font-size: 18px;
+
+
+}
+.my-list-update div {
+
+      border-radius: 25px;
+      background: url(img.gif);
+      background-position: left top;
+      background-repeat: repeat;
+      padding: 20px;
+      width: 250px;
+      height: 250px;
+
+
+      left: 30%;
+      top: 60%;
+      width: 80%;
+      text-align: center;
+      font-size: 18px;
+
+
+}
+
+img{
+  width: 150px;
+  height: 150px
+}
